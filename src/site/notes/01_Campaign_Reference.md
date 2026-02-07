@@ -5,7 +5,7 @@
 # Campaign Reference - Quick Lookup
 
 **Last Updated:** Session 34 **Campaign:** Riders of the Storm | **System:** D&D 5E  
-**Current Party Level:** 6 (levelled Session 30)
+**Current Party Level:** 6 (levelled Session 30).
 
 ---
 
